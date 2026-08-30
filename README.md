@@ -10,12 +10,6 @@ Participated in the Texas Art Education Association Visual Art Scholastic Event 
 
 ![Redacted Texas VASE state entry certification](2026-texas-vase-state-participation-redacted.png)
 
-### Texas Aerospace Scholars — 2026
-
-Successfully completed the Texas Aerospace Scholars program in partnership with NASA’s Johnson Space Center, including the online course curriculum and the 2026 cohort experience at Johnson Space Center.
-
-![Texas Aerospace Scholars certificate](2026-texas-aerospace-scholars.jpg)
-
 ### National Society of High School Scholars — 2024
 
 Granted membership in the National Society of High School Scholars in recognition of academic achievement, leadership, and scholarship.
@@ -46,6 +40,14 @@ Graduated in Tamil Language after completing the Tamil courses offered through t
 
 > The original certificate is intentionally not displayed here because it contains a student registration number.
 
+### Texas Aerospace Scholars — 2026
+
+Successfully completed the Texas Aerospace Scholars program in partnership with NASA’s Johnson Space Center, including the online course curriculum and the 2026 cohort experience at Johnson Space Center.
+
+**Final TAS Grade:** 89.50
+
+![Texas Aerospace Scholars certificate](2026-texas-aerospace-scholars.jpg)
+
 ## Privacy
 
-Documents containing a home address, student registration number, grades, or personal contact information are excluded from this public-ready gallery.
+Documents containing a home address, student registration number, or personal contact information are excluded from this gallery.
