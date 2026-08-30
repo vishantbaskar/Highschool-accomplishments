@@ -4,6 +4,14 @@ This repository highlights Vishant Baskar’s academic, STEM, aerospace, compute
 
 ## Highlights
 
+### Texas Aerospace Scholars — 2026
+
+Successfully completed the Texas Aerospace Scholars program in partnership with NASA’s Johnson Space Center, including the online course curriculum and the 2026 cohort experience at Johnson Space Center.
+
+**Final TAS Grade:** 89.50
+
+![Texas Aerospace Scholars certificate](2026-texas-aerospace-scholars.jpg)
+
 ### Texas VASE State Event — 2026
 
 Participated in the Texas Art Education Association Visual Art Scholastic Event (VASE) State Event with the artwork *Oh What a Beautiful World*. The entry competed in Division 2 and received a State Rating of 3.
@@ -39,14 +47,6 @@ Completed the Object-Oriented Programming in Java summer coding camp through the
 Graduated in Tamil Language after completing the Tamil courses offered through the International Tamil Academy.
 
 > The original certificate is intentionally not displayed here because it contains a student registration number.
-
-### Texas Aerospace Scholars — 2026
-
-Successfully completed the Texas Aerospace Scholars program in partnership with NASA’s Johnson Space Center, including the online course curriculum and the 2026 cohort experience at Johnson Space Center.
-
-**Final TAS Grade:** 89.50
-
-![Texas Aerospace Scholars certificate](2026-texas-aerospace-scholars.jpg)
 
 ## Privacy
 
