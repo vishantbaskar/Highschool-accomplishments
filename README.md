@@ -4,6 +4,12 @@ This repository highlights Vishant Baskar’s academic, STEM, aerospace, compute
 
 ## Highlights
 
+### Texas VASE State Event — 2026
+
+Participated in the Texas Art Education Association Visual Art Scholastic Event (VASE) State Event with the artwork *Oh What a Beautiful World*. The entry competed in Division 2 and received a State Rating of 3.
+
+![Redacted Texas VASE state entry certification](2026-texas-vase-state-participation-redacted.png)
+
 ### Texas Aerospace Scholars — 2026
 
 Successfully completed the Texas Aerospace Scholars program in partnership with NASA’s Johnson Space Center, including the online course curriculum and the 2026 cohort experience at Johnson Space Center.
