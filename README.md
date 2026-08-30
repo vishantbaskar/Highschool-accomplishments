@@ -18,6 +18,14 @@ Participated in the Texas Art Education Association Visual Art Scholastic Event 
 
 ![Redacted Texas VASE state entry certification](2026-texas-vase-state-participation-redacted.png)
 
+### Middle School Coding Camp Instructor — 2026
+
+Conducted a coding camp for middle school students, helping younger learners develop foundational programming and problem-solving skills.
+
+### Middle School Coding Camp Instructor — 2025
+
+Conducted a coding camp for middle school students, introducing younger learners to programming concepts through guided activities and hands-on practice.
+
 ### National Society of High School Scholars — 2024
 
 Granted membership in the National Society of High School Scholars in recognition of academic achievement, leadership, and scholarship.
