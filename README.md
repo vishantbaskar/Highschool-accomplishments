@@ -8,6 +8,9 @@ This repository highlights Vishant Baskar’s academic, STEM, aerospace, compute
 - **Texas VASE:** Advanced to the state event
 - **Change Bowl — First Place:** Recognized for presenting an innovative idea designed to improve schools and communities. Change Bowl empowers young changemakers through mentorship, resources, and opportunities to turn community-focused ideas into meaningful action.
 - **Eagle Scout**
+- **Destination Imagination Awards:**
+  - **2024:** Global Finals third place and Renaissance Award in the Technical Challenge; state first place in the Instant Challenge; state sixth place in the Technical Challenge; regional first place in the Technical and Fine Arts Challenges; and regional third place in the Service Challenge
+  - **2023:** Global Finals first place in the Service and Instant Challenges; World Champion in the Digital Open Challenge; Magellan Award; and Global Finals Renaissance Award in the Digital Open Challenge
 
 ## Highlights
 
