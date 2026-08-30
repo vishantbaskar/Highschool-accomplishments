@@ -2,6 +2,13 @@
 
 This repository highlights Vishant Baskar’s academic, STEM, aerospace, computer-science, and language-learning achievements.
 
+## Honors
+
+- **Business Professionals of America (BPA):** Third place at the state competition and sixth place at the national competition
+- **Texas VASE:** Advanced to the state event
+- **Change Bowl — First Place:** Recognized for presenting an innovative idea designed to improve schools and communities. Change Bowl empowers young changemakers through mentorship, resources, and opportunities to turn community-focused ideas into meaningful action.
+- **Eagle Scout**
+
 ## Highlights
 
 ### Texas Aerospace Scholars — 2026
