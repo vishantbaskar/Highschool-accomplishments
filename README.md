@@ -46,8 +46,4 @@ Completed the Object-Oriented Programming in Java summer coding camp through the
 
 Graduated in Tamil Language after completing the Tamil courses offered through the International Tamil Academy.
 
-> The original certificate is intentionally not displayed here because it contains a student registration number.
-
-## Privacy
-
-Documents containing a home address, student registration number, or personal contact information are excluded from this gallery.
+![Redacted International Tamil Academy graduation certificate](2024-tamil-language-graduation-redacted.png)
