@@ -20,13 +20,13 @@ Participated in the Texas Art Education Association Visual Art Scholastic Event 
 
 ### NOVA Robotics and Engineering Summer Workshop — 2026
 
-As a founder of NOVA, co-led a nine-class robotics and engineering summer workshop with two friends for middle school students. The program introduced foundational engineering concepts through guided instruction and hands-on robotics activities.
+As the founder of NOVA, co-led a nine-class robotics and engineering summer workshop with two friends for middle school students. The program introduced foundational engineering concepts through guided instruction and hands-on robotics activities.
 
 ![Redacted NOVA Robotics and Engineering Summer Workshop flyer](2026-nova-robotics-engineering-workshop-redacted.png)
 
 ### NOVA Java Summer Workshop — 2025
 
-As a founder of NOVA, co-led an eight-week summer Java programming workshop with two fellow student instructors for middle school students. The program introduced younger learners to programming through guided instruction and hands-on coding practice.
+As the founder of NOVA, co-led an eight-week summer Java programming workshop with two fellow student instructors for middle school students. The program introduced younger learners to programming through guided instruction and hands-on coding practice.
 
 ![Redacted NOVA Java Summer Workshop flyer](2025-nova-java-summer-workshop-redacted.png)
 
