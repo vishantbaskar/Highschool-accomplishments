@@ -1,4 +1,4 @@
-# Vishant Baskar — Achievements
+# Vishant Baskar — Awards & Achievements
 
 This repository highlights Vishant Baskar’s academic, STEM, aerospace, computer-science, and language-learning achievements.
 
@@ -17,6 +17,14 @@ Successfully completed the Texas Aerospace Scholars program in partnership with 
 Participated in the Texas Art Education Association Visual Art Scholastic Event (VASE) State Event with the artwork *Oh What a Beautiful World*. The entry competed in Division 2 and received a State Rating of 3.
 
 ![Redacted Texas VASE state entry certification](2026-texas-vase-state-participation-redacted.png)
+
+### Youth Toastmasters Gavel Club Leadership — 2024–Present
+
+Co-founded a youth Toastmasters Gavel Club with a friend. Served as vice president during 2024 and 2025 and currently serves as president, helping lead the club’s communication and public-speaking activities.
+
+Received the **Competent Gavelier Leader** award on October 22, 2025, in recognition of exceptional achievement in the Toastmasters International Communication Program.
+
+![Competent Gavelier Leader award](2025-competent-gavelier-leader-award.png)
 
 ### NOVA Robotics and Engineering Summer Workshop — 2026
 
