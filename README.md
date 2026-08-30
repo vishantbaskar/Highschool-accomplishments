@@ -1,4 +1,4 @@
-# Vishant Baskar — Awards & Achievements
+# Vishant Baskar — Achievements
 
 This repository highlights Vishant Baskar’s academic, STEM, aerospace, computer-science, and language-learning achievements.
 
