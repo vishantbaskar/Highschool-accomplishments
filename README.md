@@ -22,9 +22,11 @@ Participated in the Texas Art Education Association Visual Art Scholastic Event 
 
 Conducted a coding camp for middle school students, helping younger learners develop foundational programming and problem-solving skills.
 
-### Middle School Coding Camp Instructor — 2025
+### NOVA Java Summer Workshop — 2025
 
-Conducted a coding camp for middle school students, introducing younger learners to programming concepts through guided activities and hands-on practice.
+As a founder of NOVA, co-led an eight-week summer Java programming workshop with two fellow student instructors for middle school students. The program introduced younger learners to programming through guided instruction and hands-on coding practice.
+
+![Redacted NOVA Java Summer Workshop flyer](2025-nova-java-summer-workshop-redacted.png)
 
 ### National Society of High School Scholars — 2024
 
