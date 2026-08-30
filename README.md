@@ -18,9 +18,11 @@ Participated in the Texas Art Education Association Visual Art Scholastic Event 
 
 ![Redacted Texas VASE state entry certification](2026-texas-vase-state-participation-redacted.png)
 
-### Middle School Coding Camp Instructor — 2026
+### NOVA Robotics and Engineering Summer Workshop — 2026
 
-Conducted a coding camp for middle school students, helping younger learners develop foundational programming and problem-solving skills.
+As a founder of NOVA, co-led a nine-class robotics and engineering summer workshop with two friends for middle school students. The program introduced foundational engineering concepts through guided instruction and hands-on robotics activities.
+
+![Redacted NOVA Robotics and Engineering Summer Workshop flyer](2026-nova-robotics-engineering-workshop-redacted.png)
 
 ### NOVA Java Summer Workshop — 2025
 
