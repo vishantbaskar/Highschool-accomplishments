@@ -4,7 +4,7 @@ This repository highlights Vishant Baskar’s academic, STEM, aerospace, compute
 
 ## Honors
 
-- **Business Professionals of America (BPA):** 12th place at the state competition and 6th place at the national competition
+- **Business Professionals of America (BPA):** 12th place at the state competition and 6th place at the national competition. [Link](https://www.friscoisd.org/article/3004106)
 - **Texas VASE:** Advanced to the state event. [Link](https://www.friscoisd.org/o/lshs/article/3005985)
 - **Change Bowl — First Place:** Recognized for presenting an innovative idea designed to improve schools and communities. Change Bowl empowers young changemakers through mentorship, resources, and opportunities to turn community-focused ideas into meaningful action.
 - **Eagle Scout**
@@ -29,7 +29,7 @@ Participated in the Texas Art Education Association Visual Art Scholastic Event 
 
 ![Redacted Texas VASE state entry certification](2026-texas-vase-state-participation-redacted.png)
 
-### Youth Toastmasters Gavel Club Leadership — 2024–Present
+### Youth Toastmasters Gavel Club Leadership — 2024–Present [Link](https://verbalvortexgavelclub.com/)
 
 Co-founded a youth Toastmasters Gavel Club with a friend. Served as vice president during 2024 and 2025 and currently serves as president, helping lead the club’s communication and public-speaking activities.
 
