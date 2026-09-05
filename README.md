@@ -8,9 +8,10 @@ This repository highlights Vishant Baskar’s academic, STEM, aerospace, compute
 - **Texas VASE:** Advanced to the state event. [Link](https://www.friscoisd.org/o/lshs/article/3005985)
 - **Change Bowl — First Place:** Recognized for presenting an innovative idea designed to improve schools and communities. Change Bowl empowers young changemakers through mentorship, resources, and opportunities to turn community-focused ideas into meaningful action.
 - **Eagle Scout**
-- **Destination Imagination Awards:**
-  - **2024:** Global Finals third place and Renaissance Award in the Technical Challenge; state first place in the Instant Challenge; state sixth place in the Technical Challenge; regional first place in the Technical and Fine Arts Challenges; and regional third place in the Service Challenge
-  - **2023:** Global Finals first place in the Service and Instant Challenges; World Champion in the Digital Open Challenge; Magellan Award; and Global Finals Renaissance Award in the Digital Open Challenge
+- **Destination Imagination Awards: Team Name: Carpediem, Independent, Frisco, Texas**
+  - **2025:** Global Qualifier- Technical Challenge and received Magellan Award [Link](https://www.nextregiondi.com/2025-special-awards)
+  - **2024:** Global Finals third place and Renaissance Award in the Technical Challenge; state first place in the Instant Challenge; state sixth place in the Technical Challenge; regional first place in the Technical and Fine Arts Challenges; and regional third place in the Service Challenge [Link](https://www.destinationimagination.org/wp-content/uploads/GF24-Results.pdf)
+  - **2023:** Global Finals first place in the Service and Instant Challenges; World Champion in the Digital Open Challenge; Magellan Award; and Global Finals Renaissance Award in the Digital Open Challenge. [Link](https://www.destinationimagination.org/wp-content/uploads/GF23-Results.pdf)
 
 ## Highlights
 
